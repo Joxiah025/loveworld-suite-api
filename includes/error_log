@@ -1,0 +1,2 @@
+[28-Dec-2016 04:59:34 Africa/Lagos] PHP Fatal error:  Call to undefined function deliver_reponse() in /home/cystusgr/public_html/includes/email.php on line 45
+[28-Dec-2016 04:59:35 Africa/Lagos] PHP Fatal error:  Call to undefined function deliver_reponse() in /home/cystusgr/public_html/includes/email.php on line 45
